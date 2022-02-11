@@ -69,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Shop" 
+
+
+FYI:
+database sql
+https://blog.csdn.net/pxy20156/article/details/105538231
+ER 图
+![er图](https://user-images.githubusercontent.com/13958786/153566442-99992415-579d-4513-8f0e-9db6853eb90f.png)
+
